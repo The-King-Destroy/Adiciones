@@ -6479,7 +6479,7 @@
       "votes": 0
    },
    {
-      "id": "1743642781023",
+      "id": "356",
       "name": "Vegeta",
       "gender": "Hombre",
       "value": "1957",
@@ -6495,7 +6495,7 @@
       "votes": 0
    },
    {
-      "id": "1743643032776",
+      "id": "357",
       "name": "Gogeta",
       "gender": "Hombre",
       "value": "1173",
@@ -6511,7 +6511,7 @@
       "votes": 0
    },
    {
-      "id": "1743643251769",
+      "id": "358",
       "name": "Android 21",
       "gender": "Mujer",
       "value": "1459",
@@ -6527,7 +6527,7 @@
       "votes": 0
    },
    {
-      "id": "1743643454120",
+      "id": "359",
       "name": "Kefla",
       "gender": "Mujer",
       "value": "1856",
@@ -6543,7 +6543,7 @@
       "votes": 0
    },
    {
-      "id": "1743643685492",
+      "id": "360",
       "name": "Vegetto",
       "gender": "Hombre",
       "value": "1030",
@@ -6559,7 +6559,7 @@
       "votes": 0
    },
    {
-      "id": "1743643898098",
+      "id": "361",
       "name": "Son Gohan",
       "gender": "Hombre",
       "value": "1343",
@@ -6576,7 +6576,7 @@
    },
    {
       "id": "1743644176360",
-      "name": "Bulma",
+      "name": "362",
       "gender": "Mujer",
       "value": "1628",
       "source": "Dragón ball",
@@ -6591,7 +6591,7 @@
       "votes": 0
    },
    {
-      "id": "1743644339537",
+      "id": "363",
       "name": "Broly",
       "gender": "Hombre",
       "value": "1748",
@@ -6607,7 +6607,7 @@
       "votes": 0
    },
    {
-      "id": "1743644539803",
+      "id": "364",
       "name": "Videl",
       "gender": "Mujer",
       "value": "1148",
@@ -6623,7 +6623,7 @@
       "votes": 0
    },
    {
-      "id": "1743644849290",
+      "id": "365",
       "name": "Android 18",
       "gender": "Mujer",
       "value": "1157",
@@ -6639,7 +6639,7 @@
       "votes": 0
    },
    {
-      "id": "1743645062185",
+      "id": "366",
       "name": "Tenshinhan",
       "gender": "Hombre",
       "value": "1853",
@@ -6655,7 +6655,7 @@
       "votes": 0
    },
    {
-      "id": "1743645218894",
+      "id": "367",
       "name": "Jiren",
       "gender": "Hombre",
       "value": "1746",
@@ -6671,7 +6671,7 @@
       "votes": 0
    },
    {
-      "id": "1743650522711",
+      "id": "368",
       "name": "Android 17",
       "gender": "Hombre",
       "value": "1083",
@@ -6687,7 +6687,7 @@
       "votes": 0
    },
    {
-      "id": "1743650672914",
+      "id": "369",
       "name": "Bardock",
       "gender": "Hombre",
       "value": "1656",
@@ -6703,7 +6703,7 @@
       "votes": 0
    },
    {
-      "id": "1743651777518",
+      "id": "370",
       "name": "Zamasu",
       "gender": "Hombre",
       "value": "1510",
@@ -6719,7 +6719,7 @@
       "votes": 0
    },
    {
-      "id": "1743660940572",
+      "id": "371",
       "name": "Trunks",
       "gender": "Hombre",
       "value": "1544",
@@ -6735,7 +6735,7 @@
       "votes": 0
    },
    {
-      "id": "1743662542043",
+      "id": "372",
       "name": "Caulifla",
       "gender": "Mujer",
       "value": "1407",
@@ -6751,7 +6751,7 @@
       "votes": 0
    },
    {
-      "id": "1743665999331",
+      "id": "373",
       "name": "Gine",
       "gender": "Mujer",
       "value": "1330",
@@ -6767,7 +6767,7 @@
       "votes": 0
    },
    {
-      "id": "1743671422922",
+      "id": "374",
       "name": "Bra",
       "gender": "Mujer",
       "value": "1846",
@@ -6783,7 +6783,7 @@
       "votes": 0
    },
    {
-      "id": "1743671912340",
+      "id": "375",
       "name": "Freezer",
       "gender": "Hombre",
       "value": "1714",
@@ -6799,7 +6799,7 @@
       "votes": 0
    },
    {
-      "id": "1743672573683",
+      "id": "376",
       "name": "Son Goten",
       "gender": "Hombre",
       "value": "1167",
@@ -6815,7 +6815,7 @@
       "votes": 0
    },
    {
-      "id": "1743672935217",
+      "id": "377",
       "name": "Chi-Chi",
       "gender": "Mujer",
       "value": "1103",
@@ -6831,7 +6831,7 @@
       "votes": 0
    },
    {
-      "id": "1743673269069",
+      "id": "378",
       "name": "Tori-bot",
       "gender": "Hombre",
       "value": "1261",
@@ -6847,7 +6847,7 @@
       "votes": 0
    },
    {
-      "id": "1743673500130",
+      "id": "379",
       "name": "Shallot",
       "gender": "Hombre",
       "value": "1562",
@@ -6863,7 +6863,7 @@
       "votes": 0
    },
    {
-      "id": "1743734208293",
+      "id": "380",
       "name": "Mai",
       "gender": "Mujer",
       "value": "1784",
@@ -6879,7 +6879,7 @@
       "votes": 0
    },
    {
-      "id": "1743734440487",
+      "id": "381",
       "name": "Glorio",
       "gender": "Hombre",
       "value": "1445",
@@ -6895,7 +6895,7 @@
       "votes": 0
    },
    {
-      "id": "1743761246617",
+      "id": "382",
       "name": "Lunch",
       "gender": "Mujer",
       "value": "1500",
@@ -6911,7 +6911,7 @@
       "votes": 0
    },
    {
-      "id": "1743761458726",
+      "id": "383",
       "name": "Vados",
       "gender": "Mujer",
       "value": "1393",
@@ -6927,7 +6927,7 @@
       "votes": 0
    },
    {
-      "id": "1743797863654",
+      "id": "384",
       "name": "Gokua",
       "gender": "Hombre",
       "value": "1954",
@@ -6943,7 +6943,7 @@
       "votes": 0
    },
    {
-      "id": "1743798188933",
+      "id": "385",
       "name": "Pan",
       "gender": "Mujer",
       "value": "1286",
@@ -6959,7 +6959,7 @@
       "votes": 0
    },
    {
-      "id": "1743798882385",
+      "id": "386",
       "name": "Beerus",
       "gender": "Hombre",
       "value": "1634",
@@ -6975,7 +6975,7 @@
       "votes": 0
    },
    {
-      "id": "1743799942919",
+      "id": "387",
       "name": "Gotenks",
       "gender": "Hombre",
       "value": "1577",
@@ -6991,7 +6991,7 @@
       "votes": 0
    },
    {
-      "id": "1743815511986",
+      "id": "388",
       "name": "Piccolo",
       "gender": "Hombre",
       "value": "1974",
@@ -7007,8 +7007,8 @@
       "votes": 0
    },
    {
-      "id": "1743830564953",
-      "name": "Jenemba",
+      "id": "389",
+      "name": "Janemba",
       "gender": "Hombre",
       "value": "1819",
       "source": "Dragón ball",
@@ -7023,7 +7023,7 @@
       "votes": 0
    },
    {
-      "id": "1743835793781",
+      "id": "390",
       "name": "Tapion",
       "gender": "Hombre",
       "value": "1792",
@@ -7039,8 +7039,8 @@
       "votes": 0
    },
    {
-      "id": "1743836649447",
-      "name": "Majin kuu",
+      "id": "391",
+      "name": "Majin Buu",
       "gender": "Hombre",
       "value": "1330",
       "source": "Dragón ball",
@@ -7055,7 +7055,7 @@
       "votes": 0
    },
    {
-      "id": "1743837256987",
+      "id": "392",
       "name": "Yamcha",
       "gender": "Hombre",
       "value": "1510",
@@ -7071,11 +7071,11 @@
       "votes": 0
    },
    {
-      "id": "1744251681298",
-      "name": "ri-chan",
+      "id": "393",
+      "name": "Ri-chan",
       "gender": "Mujer",
       "value": "1259",
-      "source": "ri-chan",
+      "source": "Ri-chan",
       "img": [
          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1744249747214.jpeg",
          "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1744249753937.jpeg",
@@ -7089,25 +7089,7 @@
       "votes": 0
    },
    {
-      "id": "1744252993819",
-      "name": "ri-chan",
-      "gender": "Mujer",
-      "value": "1995",
-      "source": "ri-chan",
-      "img": [
-         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1744249747214.jpeg",
-         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1744249753937.jpeg",
-         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1744249761286.jpeg"
-      ],
-      "vid": [
-         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1744249768224.jpeg"
-      ],
-      "user": null,
-      "status": "Libre",
-      "votes": 0
-   },
-   {
-      "id": "1744509524942",
+      "id": "394",
       "name": "Vermeil",
       "gender": "Mujer",
       "value": "1492",
@@ -7125,7 +7107,7 @@
       "votes": 0
    },
    {
-      "id": "1744723723243",
+      "id": "395",
       "name": "Panzy",
       "gender": "Mujer",
       "value": "1136",
@@ -7141,7 +7123,7 @@
       "votes": 0
    },
    {
-      "id": "1744723932791",
+      "id": "396",
       "name": "Gamma 2",
       "gender": "Hombre",
       "value": "1731",
@@ -7157,23 +7139,7 @@
       "votes": 0
    },
    {
-      "id": "1744772073424",
-      "name": "Majin buu",
-      "gender": "Hombre",
-      "value": "1660",
-      "source": "Dragón ball",
-      "img": [
-         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1744772000853.jpeg",
-         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1744772005383.jpeg",
-         "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1744772008924.jpeg"
-      ],
-      "vid": [],
-      "user": null,
-      "status": "Libre",
-      "votes": 0
-   },
-   {
-      "id": "1744982654323",
+      "id": "397",
       "name": "Mr.satan",
       "gender": "Hombre",
       "value": "1311",
